@@ -1,43 +1,70 @@
-<div align="center">
-Hi, I'm Redouane 👋
-Data & AI Engineering Student · EPF Montpellier
-I build data pipelines, machine-learning models and AI-powered apps, and I care about taking them all the way to production.
+<h1 align="center">Hi, I'm Redouane 👋</h1>
+<h3 align="center">Data & AI Engineering student · RAG & NLP enthusiast</h3>
 
-🔎 Looking for a Data / AI engineering internship
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://myeportfolio-qdby.onrender.com/portfolios/1"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+</p>
 
-LinkedIn Email Portfolio
+---
 
-</div>
-🚀 About me
-🎓 Engineering student at EPF Montpellier, majoring in Data Engineering & AI
-🤖 President of Génération IA France, a non-profit that makes AI understandable and responsible for students, companies and the general public
-🛠️ I enjoy the full data lifecycle: collecting and cleaning data, modelling it, and shipping it as a product people can use
-🌱 Currently learning: Apache Airflow, MLOps and LLM applications (RAG, agents)
-🧰 Tech stack
-Data & AI Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image
+## 🧑‍💻 About me
 
-Backend & databases Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image
+- 🎓 Engineering student at **EPF École d'Ingénieurs** (Montpellier), specializing in **Data & AI Engineering** (2022–2027)
+- 🔬 **Junior AI Researcher (intern)** at Alive Lab: building multilingual **RAG** pipelines (PDF extraction, chunking, embeddings, hybrid search, reranking, evaluation)
+- 📊 Former **Data Analyst intern** at the **Organisation Internationale de la Francophonie** (Geneva)
+- 🚀 President of **Generation IA**, a student association in Montpellier (team of 30 members)
+- 🌱 Currently learning: advanced retrieval architectures, maths for ML/DL, remote sensing
 
-DevOps & tools Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image
+---
 
-⭐ Featured projects
-Project	Description	Stack
-📊 Ad-Sale Prediction (Kaggle)	Predicts whether an ad auction ends in a sale. EDA, feature engineering and model comparison: F1 from 0.27 to 0.72	pandas · scikit-learn · seaborn
-🧑‍💼 myEportfolio	Portfolio/CV generator with a secure admin editor and REST API. Live demo	FastAPI · SQLAlchemy · HTMX · JWT
-⚙️ DevOps CI/CD Pipeline	3-tier app (API, front, database) containerised, tested and deployed automatically	Docker · GitHub Actions · Ansible
-🌍 PolicyBridge	Platform connecting NGOs and institutions with AI, data and public-policy experts	JavaScript · AI-agent workflow
-🤖 GenBot	LLM chatbot grounded on a knowledge base for the Génération IA association	Mistral AI · Dash
-🌐 AICDN Network	Website of the Global AI Capacity Development Network. Live site	HTML · CSS · JavaScript
-💼 Experience
-President, Génération IA France · 20XX – Present Lead a non-profit raising awareness about AI: workshops in schools and companies, conferences, and a team of volunteers across regions.
+## 🛠️ Skills
 
-Web Developer, Global AI Capacity Development Network (AICDN) · 2026 Designed and deployed the network's public website presenting its member AI centres and priority projects.
+**Languages**
 
-<!-- TODO: add internships / jobs here, same format: **Role, Company** · *Month Year – Month Year* One line on what you did and the impact. -->
-🎓 Education
-Engineering degree, Data Engineering & AI, EPF Engineering School, Montpellier · 20XX – 20XX
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<div align="center">
-📫 Open to internship opportunities in Data & AI. Let's talk! LinkedIn · Email
+**Data & AI**
 
-</div>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white)
+
+**RAG & NLP:** embeddings · vector search (dense, BM25, hybrid) · reranking · document chunking · RAG evaluation
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**PolicyBridge**](https://github.com/redouanend/PolicyBridge) | Platform connecting NGOs, governments and international institutions with experts in AI, data and public policy | HTML · JavaScript |
+| [**myEportfolio**](https://github.com/redouanend/myEportfolio) | Personal portfolio web app with an admin editor and JWT authentication, deployed on Render ([live demo](https://myeportfolio-qdby.onrender.com/portfolios/1)) | FastAPI · SQLAlchemy · HTMX |
+| [**Light Off**](https://github.com/redouanend/CPO_TP_NDIAYE) | "Lights Out" puzzle game in Java, console and GUI versions | Java |
+
+---
+
+## 💼 Experience
+
+- **Junior AI Researcher – Intern** · Alive Lab, Dakar · *Jul–Dec 2026*
+- **Data Analyst – Intern** · OIF, Geneva · *Sep–Dec 2025*
+- **Developer – Intern** · Atos, Dakar · *Jul 2023*
+
+---
+
+<p align="center"><i>Open to internships and collaborations in Data & AI 🤝</i></p>
